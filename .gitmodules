@@ -1,0 +1,6 @@
+[submodule "vim"]
+	path = vim
+	url = ./vim/
+[submodule "shellrc"]
+	path = shellrc
+	url = ./shellrc/
