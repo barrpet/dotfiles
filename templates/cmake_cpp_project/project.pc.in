@@ -1,0 +1,9 @@
+prefix=@CMAKE_INSTALL_PREFIX@
+exec_prefix=${prefix}
+
+Name: project
+Description: Project description
+Requires:
+Version: @META_PROJECT_VERSION@
+Libs:
+Cflags: -I${prefix}/@INCLUDE_INSTALL_DIR@
