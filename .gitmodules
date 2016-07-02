@@ -1,6 +1,6 @@
 [submodule "vim"]
 	path = vim
-	url = ./vim/
+	url = petersbarr.com:/git/vimrc.git
 [submodule "shellrc"]
 	path = shellrc
-	url = ./shellrc/
+	url = petersbarr.com:/git/shellrc.git
